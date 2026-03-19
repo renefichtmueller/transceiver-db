@@ -1,0 +1,45 @@
+{
+  "name": "transceiver-db",
+  "version": "1.0.0",
+  "description": "Open-source optical transceiver database. 89 products, 39 IEEE/MSA standards, 16 form factors, 9 speed tiers. SFP to 800G OSFP.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "license": "MIT",
+  "keywords": [
+    "transceiver",
+    "optics",
+    "sfp",
+    "qsfp",
+    "networking",
+    "fiber",
+    "ieee",
+    "telecom",
+    "osfp",
+    "qsfp-dd",
+    "optical",
+    "datacenter",
+    "100g",
+    "400g",
+    "800g"
+  ],
+  "files": [
+    "dist",
+    "LICENSE",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/renefichtmueller/transceiver-db"
+  },
+  "author": "Rene Fichtmueller",
+  "engines": {
+    "node": ">=14"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}

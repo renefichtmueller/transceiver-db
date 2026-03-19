@@ -116,7 +116,7 @@ export interface Standard {
 
 export interface Competitor {
   name: string;
-  type: "OEM" | "Whitebox" | "Manufacturer" | "Distributor";
+  type: "OEM" | "Whitebox" | "Manufacturer" | "Distributor" | "Compatible";
   headquarters: string;
   marketPosition: string;
   formFactorsOffered: string[];

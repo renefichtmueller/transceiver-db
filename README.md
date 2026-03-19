@@ -1,5 +1,7 @@
 # transceiver-db
 
+> **[🚀 Live Demo](https://transceiver-db-demo.pages.dev)** — Try it in your browser, no installation needed.
+
 [![npm version](https://img.shields.io/npm/v/transceiver-db.svg)](https://www.npmjs.com/package/transceiver-db)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)
@@ -12,6 +14,8 @@ Open-source optical transceiver database for network engineers, tooling develope
 From 1G SFP to 800G OSFP. Zero dependencies.
 
 ## Why?
+
+> **[🚀 Live Demo](https://transceiver-db-demo.pages.dev)** — Try it in your browser, no installation needed.
 
 No open-source transceiver database existed. Network engineers, inventory systems, and automation tools had to maintain their own fragmented lists. Now there is a single, typed, searchable source of truth.
 
